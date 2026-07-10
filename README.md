@@ -1,4 +1,4 @@
-# AGENTIC_RAG
+# FinWise Agent
 
 > A multi-agent AI system that answers complex financial queries by intelligently orchestrating a RAG pipeline, live stock market data, and real-time web search — all in parallel.
 
